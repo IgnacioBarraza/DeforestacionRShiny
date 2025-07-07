@@ -7,7 +7,7 @@ Fue desarrollada en **R** utilizando el framework **Shiny**, permitiendo una vis
 
 ## 👨‍💻 Autores
 
--   Ignacio Barraza\
+-   Ignacio Barraza
 -   Orlando Rojo
 
 ------------------------------------------------------------------------
